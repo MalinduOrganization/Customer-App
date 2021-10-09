@@ -75,9 +75,6 @@ public class CustomerFormController {
                     }
 
 
-
-
-
                 } catch (SQLException e1) {
                     e1.printStackTrace();
                 } catch (ClassNotFoundException e1) {
